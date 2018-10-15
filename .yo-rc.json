@@ -2,9 +2,10 @@
   "generator-gitignore-io": {
     "options": [
       "macos",
-      "visualstudiocode",
+      "node",
       "reactnative",
-      "node"
+      "visualstudiocode",
+      "windows"
     ]
   }
 }
